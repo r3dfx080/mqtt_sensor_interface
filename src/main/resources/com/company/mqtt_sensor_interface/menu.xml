@@ -3,6 +3,7 @@
 
     <menu id="application" title="msg://com.company.mqtt_sensor_interface/menu.application.title" opened="true">
         <item view="User.list" title="msg://com.company.mqtt_sensor_interface.view.user/UserListView.title"/>
+        <item view="Sensor.list" title="msg://com.company.mqtt_sensor_interface.view.sensor/sensorListView.title"/>
     </menu>
 
 </menu-config>
